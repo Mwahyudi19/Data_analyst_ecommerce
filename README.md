@@ -8,6 +8,12 @@ The goal is to transform raw sales data into an interpretative dashboard to supp
 - **Regional Analysis:** Comparing performance across North, South, East, and West regions.
 - **Product Trends:** Identifying top-selling products and seasonal demand spikes.
 
+🛠️ Tools & Workflow
+The entire analysis workflow was conducted in **Excel**:
+1.  **Data Exploration:** Reviewing raw transaction records from Kaggle.
+2.  **Data Processing:** Utilizing **Pivot Tables** to aggregate sales, profit, and quantity metrics.
+3.  **Visualization:** Building a comprehensive **Excel Dashboard** to present key performance indicators (KPIs) visually.
+
 ## 📂 File Contents
 - <a href="https://github.com/Mwahyudi19/Data_analyst_ecommerce/blob/main/PIVOT2.xlsx">Excel File</a> : Aggregated data and statistical summaries.
 - <a href="https://github.com/Mwahyudi19/Data_analyst_ecommerce/blob/main/DASHBOARD%20.png">Dashboard</a> : Final visual representation of key performance indicators.
