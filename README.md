@@ -9,8 +9,7 @@ The goal is to transform raw sales data into an interpretative dashboard to supp
 - **Product Trends:** Identifying top-selling products and seasonal demand spikes.
 
 ## 📂 File Contents
-- <a href="https://github.com/Mwahyudi19/Data_analyst_ecommerce/blob/main/PIVOT2.xlsx">Excel File</a> : Aggregated data and statistical summaries (Pivot Tables).
-- <a href="https://github.com/Mwahyudi19/Data_analyst_ecommerce/blob/main/DASHBOARD%20.png">Dashboard</a> : Final visual representation of key performance indicators (KPIs).
+- <a href="https://github.com/Mwahyudi19/Data_analyst_ecommerce/blob/main/PIVOT2.xlsx">Excel File</a> : Aggregated data and statistical summaries.
+- <a href="https://github.com/Mwahyudi19/Data_analyst_ecommerce/blob/main/DASHBOARD%20.png">Dashboard</a> : Final visual representation of key performance indicators.
 
----
-*Feel free to explore the data and visualization to understand the business performance snapshot.*
+
